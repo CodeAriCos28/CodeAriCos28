@@ -1,4 +1,4 @@
-# ![https://derejsoft.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es CodeAriCos28 👋
+# ![https://derejsoft.com](https://github.com/CodeAriCos28/CodeAriCos28/blob/main/GitLogo.png)) Hola, mi nombre es CodeAriCos28 👋
 
 ### Freelance full-stack iOS & Android engineer
 =======
