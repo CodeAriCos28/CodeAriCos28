@@ -1,11 +1,8 @@
 # ![https://derejsoft.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es CodeAriCos28 👋
-<<<<<<< HEAD
+
 ### Freelance full-stack iOS & Android engineer
 =======
 ### Soy Estudiante De Ingenieria De Software
->>>>>>> 9ca0d4a789e778e9d3f37becbf811400f59585d8
-
-
 
 Soy ingeniero de software profesional desde 2010.
 
