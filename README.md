@@ -11,8 +11,6 @@
                                                                  
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,vscode,py,kali,instagram,gmail,flask)](https://skillicons.dev)
-
 ## Hola Mi Nombre Es ChimaloCode👋
 
 I'm **ChimaloCode**, a passionate developer and a student of Systems Engineering. I'm co-founder of **DerejSoft**, and I'm excited about creating the future with code! 🚀
@@ -23,7 +21,7 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 
 ## Skills & Technologies
 
-html,css,js,flask,git,github,mysql,bash
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,py,figma,windows)](https://skillicons.dev)
 
 ## Top Projects
 
