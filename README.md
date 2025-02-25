@@ -24,27 +24,13 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,py,figma,windows)](https://skillicons.dev)
 
 ## Top Projects
-
-- [CodeAriCos28](https://github.com/CodeAriCos28/CodeAriCos28)  
-  **Description:** Core project showcasing my development skills.  
-  **Stars:** 0  
-  **Language:** N/A  
-  **Forks:** 0  
-  **Issues:** 0  
-
+ 
 - [Prestamos](https://github.com/CodeAriCos28/Prestamos)  
   **Description:** A project for managing loans.  
   **Stars:** 0  
   **Language:** HTML  
   **Forks:** 0  
   **Issues:** 0  
-
-- [Sitema-De-Prestamos](https://github.com/CodeAriCos28/Sitema-De-Prestamos)  
-  **Description:** Parts of a loan management system.  
-  **Stars:** 0  
-  **Language:** N/A  
-  **Forks:** 0  
-  **Issues:** 0
 
 ## GitHub Stats
 
