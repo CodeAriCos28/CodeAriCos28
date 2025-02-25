@@ -10,7 +10,8 @@
   \____\___/ \__,_|\___/_/   \_\_|  |_|\____\___/|___/_____\___/ 
                                                                  
 ```
-![estre](https://shields-one.vercel.app/github/languages/top/CodeAriCos28/CodeAriCos28)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,vscode,py,kali,instagram,gmail,flask)](https://skillicons.dev)
 
 ## Hola Mi Nombre Es ChimaloCode👋
 
