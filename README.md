@@ -1,15 +1,6 @@
 # ![https://derejsoft.com](https://github.com/CodeAriCos28/CodeAriCos28/blob/main/logogit_2.png) Hola, mi nombre es CodeAriCos28 👋
 
-## ASCII Art
-
-```
-   ____          _         _         _  ____          ____  ___  
-  / ___|___   __| | ___   / \   _ __(_)/ ___|___  ___|___ \( _ ) 
- | |   / _ \ / _` |/ _ \ / _ \ | '__| | |   / _ \/ __| __) / _ \ 
- | |__| (_) | (_| |  __// ___ \| |  | | |__| (_) \__ \/ __/ (_) |
-  \____\___/ \__,_|\___/_/   \_\_|  |_|\____\___/|___/_____\___/ 
-                                                                 
-```
+![Guthub - CodeAriCos28](https://github.com/user-attachments/assets/3934c227-b020-47c8-bddd-89591eddc84b)
 
 ## Hola Mi Nombre Es ChimaloCode👋
 
