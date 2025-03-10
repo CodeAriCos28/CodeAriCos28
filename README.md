@@ -4,7 +4,7 @@
 
 ## Hola Mi Nombre Es ChimaloCode👋
 
-I'm **ChimaloCode**, a passionate developer and a student of Systems Engineering. I'm co-founder of **DerejSoft**, and I'm excited about creating the future with code! 🚀
+I'm **ChimaloCode**, a passionate developer and a student of Systems Engineering. I'm co-founder of [DerejSoft](https://derejsoft.com/), and I'm excited about creating the future with code! 🚀
 
 ## About Me
 
