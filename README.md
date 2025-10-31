@@ -1,4 +1,4 @@
-# ![https://derejsoft.com](https://github.com/CodeAriCos28/CodeAriCos28/blob/main/logogit_2.png) Hola, mi nombre es CodeAriCos28 👋
+# ![https://derejsoft.com](https://github.com/CodeAriCos28/CodeAriCos28/blob/main/logogit_2.png) Hola, Sean Bienvenidos a CodeAricos28 👋
 
 ![Guthub - CodeAriCos28](https://github.com/user-attachments/assets/3934c227-b020-47c8-bddd-89591eddc84b)
 
@@ -12,7 +12,7 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,py,figma,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,py,figma,windows,linux,git)](https://skillicons.dev)
 
 ## Top Projects
  
@@ -25,9 +25,9 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 
 ## GitHub Stats
 
-👨‍💻 **Public Repositories:** 3  
-👥 **Followers:** 0  
-👤 **Following:** 0  
+👨‍💻 **Public Repositories:** 8  
+👥 **Followers:** 3 
+👤 **Following:** 5 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAriCos28&show_icons=true&theme=radical)
 ![estre](https://shields-one.vercel.app/github/languages/top/CodeAriCos28/CodeAriCos28)
@@ -39,6 +39,7 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 - **Updated README.md** in [Sitema-De-Prestamos](https://github.com/CodeAriCos28/Sitema-De-Prestamos)  
 - **Pushed commits** to [CodeAriCos28](https://github.com/CodeAriCos28/CodeAriCos28)  
 - **Pushed commits** to [Prestamos](https://github.com/CodeAriCos28/Prestamos)
+- **Pushed commits** to [webderej](https://github.com/CodeAriCos28/webderej)
 
 ## Latest Blog Posts
 
