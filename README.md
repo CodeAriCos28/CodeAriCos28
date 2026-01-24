@@ -23,8 +23,12 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
   **Forks:** 0  
   **Issues:** 0
 
-- [Prestamos](https://github.com/CodeAriCos28/mlanfinance)  
-
+- [mlanfinance](https://github.com/CodeAriCos28/mlanfinance)  
+  **Description:** Mejora tus finanzas personales.  
+  **Stars:** 0  
+  **Language:** HTML, CSS, JavaScript 
+  **Forks:** 0  
+  **Issues:** 0
 
 ## GitHub Stats
 
