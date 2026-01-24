@@ -26,7 +26,7 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 - [mlanfinance](https://github.com/CodeAriCos28/mlanfinance)  
   **Description:** Mejora tus finanzas personales.  
   **Stars:** 0  
-  **Language:** HTML, CSS, JavaScript 
+  **Language:** HTML, CSS, JavaScript, Django
   **Forks:** 0  
   **Issues:** 0
 
