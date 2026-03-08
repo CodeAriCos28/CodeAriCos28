@@ -14,21 +14,14 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,py,figma,windows,linux,git)](https://skillicons.dev)
 
-## Top Projects
- 
-- [Prestamos](https://github.com/CodeAriCos28/Prestamos)  
-  **Description:** A project for managing loans.  
-  **Stars:** 0  
-  **Language:** HTML  
-  **Forks:** 0  
-  **Issues:** 0
+## 🎯 Top Projects
 
-- [mlanfinance](https://github.com/CodeAriCos28/mlanfinance)  
-  **Description:** Mejora tus finanzas personales.  
-  **Stars:** 0  
-  **Language:** HTML, CSS, JavaScript, Django
-  **Forks:** 0  
-  **Issues:** 0
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [Prestamos](https://github.com/CodeAriCos28/Prestamos) | Sistema de gestión de préstamos | HTML, CSS, JavaScript |
+| [mlanfinance](https://github.com/CodeAriCos28/mlanfinance) | Mejora tus finanzas personales | HTML, CSS, JavaScript, Django |
+| [webderej](https://github.com/CodeAriCos28/webderej) | Sitio web de DerejSoft | HTML, CSS, JavaScript |
+
 
 ## GitHub Stats
 
