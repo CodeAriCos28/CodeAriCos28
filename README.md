@@ -36,8 +36,7 @@ Based in **Santiago, Republica Dominica**, I specialize in Frontend development,
 👥 **Followers:** 3 
 👤 **Following:** 5 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAriCos28&show_icons=true&theme=radical)
-![estre](https://shields-one.vercel.app/github/languages/top/CodeAriCos28/CodeAriCos28)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeAriCos28&theme=highcontrast&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Recent Activity
 
