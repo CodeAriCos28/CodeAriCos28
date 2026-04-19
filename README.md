@@ -1,50 +1,67 @@
-# ![https://derejsoft.com](https://github.com/CodeAriCos28/CodeAriCos28/blob/main/logogit_2.png) Hola, Sean Bienvenidos a CodeAricos28 👋
+# <p align="center">Hi there, I'm ChimaloCode! 👋</p>
 
-![Guthub - CodeAriCos28](https://github.com/user-attachments/assets/3934c227-b020-47c8-bddd-89591eddc84b)
+<p align="center">
+  <img src="futuristic_github_banner.png" alt="Futuristic Banner" width="100%">
+</p>
 
-## Hola Mi Nombre Es ChimaloCode👋
+<p align="center">
+  <a href="https://github.com/CodeAriCos28">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm **ChimaloCode**, a passionate developer and a student of Systems Engineering. I'm co-founder of [DerejSoft](https://derejsoft.com/), and I'm excited about creating the future with code! 🚀
+---
 
-## About Me
+### ⚡ About Me
 
-Based in **Santiago, Republica Dominica**, I specialize in Frontend development, Python, and Cybersecurity. My journey in tech is fueled by my love for problem-solving and innovation.
+I am a **Systems Engineering student** and **Full Stack Developer** driven by the intersection of innovation and logic. As the co-founder of **[DerejSoft](https://derejsoft.com/)**, I architect solutions that bridge the gap between complexity and user experience.
 
-## Skills & Technologies
+- 🔭 **Current Focus:** Advanced Backend Systems & Cybersecurity.
+- 🚀 **Mission:** Engineering robust, scalable, and secure digital ecosystems.
+- 📍 **Based in:** Santiago, Dominican Republic.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,py,figma,windows,linux,git)](https://skillicons.dev)
+---
 
-## 🎯 Top Projects
+### 🛠️ Tech Stack & Arsenal
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [Prestamos](https://github.com/CodeAriCos28/Prestamos) | Sistema de gestión de préstamos | HTML, CSS, JavaScript |
-| [mlanfinance](https://github.com/CodeAriCos28/mlanfinance) | Mejora tus finanzas personales | HTML, CSS, JavaScript, Django |
-| [webderej](https://github.com/CodeAriCos28/webderej) | Sitio web de DerejSoft | HTML, CSS, JavaScript |
+<div align="center">
 
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend & Logic** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **Frontend Artistry** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Infrastructure & Ops** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Tools & OS** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 
-## GitHub Stats
+</div>
 
-👨‍💻 **Public Repositories:** 8  
-👥 **Followers:** 3 
-👤 **Following:** 5 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeAriCos28&theme=highcontrast&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### 📊 GitHub Analytics
 
-## Recent Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeAriCos28&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAriCos28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+</p>
 
-- **Updated README.md** in [CodeAriCos28](https://github.com/CodeAriCos28/CodeAriCos28)  
-- **Created README.md** in [Prestamos](https://github.com/CodeAriCos28/Prestamos)  
-- **Updated README.md** in [Sitema-De-Prestamos](https://github.com/CodeAriCos28/Sitema-De-Prestamos)  
-- **Pushed commits** to [CodeAriCos28](https://github.com/CodeAriCos28/CodeAriCos28)  
-- **Pushed commits** to [Prestamos](https://github.com/CodeAriCos28/Prestamos)
-- **Pushed commits** to [webderej](https://github.com/CodeAriCos28/webderej)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeAriCos28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## Latest Blog Posts
+---
 
-La Empresa de software: 
-[Derejsoft](https://derejsoft.com/)
+### 🔗 Connect With Me
 
-## Connect with Me
+<p align="center">
+  <a href="mailto:Azumibottousai666@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://derejsoft.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-Coreeo Electronico: Azumibottousai666@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeAriCos28&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
