@@ -1,7 +1,7 @@
 # <p align="center">¡Hola, soy ChimaloCode! 👋</p>
 
 <p align="center">
-  <img src="futuristic_github_banner.png" alt="Banner Futurista" width="100%">
+  <img src="codearicos_doc.png" alt="Banner Futurista" width="100%">
 </p>
 
 <p align="center">
