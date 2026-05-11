@@ -40,8 +40,8 @@ Soy un **estudiante de Ingeniería en Sistemas** y **Desarrollador Full Stack** 
 ### 📊 Analíticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeAriCos28&show_icons=true&theme=tokyonight&count_private=true&locale=es" alt="Estadísticas de GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAriCos28&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeAriCos28&theme=tokyonight" alt="Estadísticas de GitHub" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeAriCos28&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
 </p>
 
 <p align="center">
